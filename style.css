@@ -1,0 +1,19 @@
+body{
+    background-size: cover;
+}
+.note{
+    color: black;
+}
+#input_box{
+    width: 20%;
+    height: 50px;
+}
+#start_button, #status, #object_status{
+    font-size: 18px;
+}
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px grey;
+    margin-top: 150px;
+}
